@@ -15,4 +15,4 @@ A simple FastAPI project that fetches weather data from OpenWeather API, stores 
 
 ## Run Locally
 ```bash
-uvicorn main:app --reload
+uvicorn app:app --reload
